@@ -1,4 +1,4 @@
-# Switching option code with U-O stochastic process
+# Switching option code with O-U stochastic process
 
 Sample code used for switching options with the O-U stochastic process in this study can be found in the repository. 
 
