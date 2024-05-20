@@ -1,6 +1,6 @@
 # Switching option code with U-O stochastic process
 
-Sample code used for switching options with the U-O stochastic process in this study can be found in the repository. 
+Sample code used for switching options with the O-U stochastic process in this study can be found in the repository. 
 
 Guo, Q. W., Chow, J. Y., & Schonfeld, P. (2017). Stochastic dynamic switching in fixed and flexible transit services as market entry-exit real options. Transportation research procedia, 23, 380-399.
 
